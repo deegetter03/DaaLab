@@ -4,7 +4,7 @@ void mergesort(int arr[], int l, int h);
 void main(void)
 {
     int array[100], n, i = 0;
-    clrscr();
+    // clrscr();
     printf("\t\t\tMerge Sort\n\n\n\n");
     printf("Enter the number of elements to be sorted: ");
     scanf("%d", &n);
